@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Simple HTTP Web Server",
   "main": "app.js",
-  "author": "Chyld Medford <chyld.medford@gmail.com>",
+  "author": "Zoe Ames <zoeames@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "connect": "^3.3.0",
